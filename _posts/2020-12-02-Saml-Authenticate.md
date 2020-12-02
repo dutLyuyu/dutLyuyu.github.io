@@ -8,11 +8,11 @@ date: 2020-12-02
 ## saml 
 
 saml的metadata互换（本质是核心信息的统一）
-![img](./md_pics_archive/saml.png)
+![img](/assets/md_pics_archive/saml.png)
 
 ### saml single sign on (sso)
 sp-initiate flow:
-![img](./md_pics_archive/saml-flow.png)
+![img](/assets/md_pics_archive/saml-flow.png)
 
 **saml只是认证的协议；**
 #### ps1:
@@ -35,7 +35,7 @@ https://docs.microsoft.com/en-us/azure/active-directory/develop/single-sign-on-s
 
 #### slo
 http://docs.oasis-open.org/security/saml/Post2.0/sstc-saml-tech-overview-2.0.html
-![img](./md_pics_archive/slo.png)
+![img](/assets/md_pics_archive/slo.png)
 
 SLO allows a user to terminate all server sessions established via SAML SSO by initiating the logout process once. 
 
@@ -113,7 +113,7 @@ openID：
 待补充..
 
 OAuth2.0:
-![img](./md_pics_archive/OAuth2.0.png)
+![img](/assets/md_pics_archive/OAuth2.0.png)
 Authorization server 可以 = Resource Owner
 
 D步骤中，认证服务器发送的HTTP回复，包含以下参数：
@@ -124,7 +124,7 @@ refresh_token：表示更新令牌，用来获取下一次的访问令牌，可�
 scope：表示权限范围，如果与客户端申请的范围一致，此项可省略。
 
 example:
-![img](./md_pics_archive/OAuth2例子.png)
+![img](/assets/md_pics_archive/OAuth2例子.png)
 
 
 定义+其他部分：

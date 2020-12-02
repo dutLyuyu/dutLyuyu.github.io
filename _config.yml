@@ -1,3 +1,5 @@
-name: Hank Quinlan, Horrible Cop
+name: hope-ly
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+source:      _source
+destination: _deploy

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "使用Azure AD做single sign on 和single logout（saml + nodejs / single page ）"
 date: 2020-12-02
 ---
 # saml

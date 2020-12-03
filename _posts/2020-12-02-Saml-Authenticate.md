@@ -85,7 +85,12 @@ https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/SignI
 
 1. metadata可以用passport-metadata-saml这个库生成但是不一定必须要，关键信息和azure之间共享就可以
 
-6. sp这边有必要签名吗? 现在好像都没有用到
+2. sp这边有必要签名吗? 现在好像都没有用到
+
+## 时序图
+### SPA
+![img](/assets/sso and azure.jpg)
+
 
 
 

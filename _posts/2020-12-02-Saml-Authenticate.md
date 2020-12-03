@@ -89,7 +89,7 @@ https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/SignI
 
 ## 时序图
 ### SPA
-![img](/assets/md_pics_archive/sso-azure.jpg)
+![img](/assets/md_pics_archive/sso-slo-azure.jpg)
 
 
 
